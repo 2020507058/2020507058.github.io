@@ -6,8 +6,9 @@ layout: default
 
 ## Frontend Developer | MIS Student
 
+- Some Coffee ☕ lots of < code />
 
-#### Tech Stack
+#### Technologies I use
 
 *   HTML
 *   CSS
@@ -17,18 +18,13 @@ layout: default
 *   JavaScript
 *   React.js
 
-###### Header 6
+### Connect with me
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
+[<img align="left" alt="FURKANSUNGER | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FURKANSUNGER | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FURKANSUNGER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FURKANSUNGER | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /><br />
 
 ### Here is an unordered list:
 
